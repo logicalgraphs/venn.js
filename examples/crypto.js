@@ -1,11 +1,11 @@
-var sets = [   {sets: ['KUJI', 'USDC'], size: 305463},
-   {sets: ['KUJI', 'ATOM'], size: 56687.016},
-   {sets: ['KUJI', 'USK'], size: 123456.51},
-   {sets: ['USDC', 'USK'], size: 50868.273},
-   {sets: ['LUNA', 'USK'], size: 52097.996},
-   {sets: ['USK'], size: 290882.13},
-   {sets: ['LUNA'], size: 105067.44},
-   {sets: ['KUJI'], size: 552163.75},
-   {sets: ['ATOM'], size: 65926.44},
-   {sets: ['USDC'], size: 429950.53}];
+var sets = [   {sets: ['KUJI', 'USK'], size: 106206.06},
+   {sets: ['KUJI', 'USDC'], size: 279515.25},
+   {sets: ['axlUSDC', 'USDC'], size: 51091.83},
+   {sets: ['KUJI', 'ATOM'], size: 55434.29},
+   {sets: ['USDC', 'USK'], size: 62866.742},
+   {sets: ['ATOM'], size: 69177.11},
+   {sets: ['USDC'], size: 440091.88},
+   {sets: ['KUJI'], size: 486276.16},
+   {sets: ['USK'], size: 340339.2},
+   {sets: ['axlUSDC'], size: 85458.97}];
 
