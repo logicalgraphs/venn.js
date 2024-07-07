@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Top-traded Kujira tokens, 24-hour</title>
+<title id='doc-title'>Top-traded Kujira tokens, 24-hour</title>
 <style>
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -15,7 +15,7 @@ body {
 </head>
 
 <body>
-  <p>Tokens traded on Kujira FIN by 24h-volumes</p>
+  <h3 id='chart-title'>Tokens traded on Kujira FIN by 24h-volumes</h3>
     <div id="venn"></div>
 
 </body>
@@ -29,6 +29,10 @@ var chart = venn.VennDiagram()
                  .height(400);
 
 d3.select("#venn").datum(sets).call(chart);
+
+const ttl='Top-traded Kujira tokens, '.concat(date);
+document.getElementById("doc-title").innerHTML = ttl;
+document.getElementById("chart-title").innerHTML = ttl;
 
 </script>
 </html>
