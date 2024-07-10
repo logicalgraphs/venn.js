@@ -1,13 +1,13 @@
-date = '2024-07-09';
+date = '2024-07-10';
 
-sets = [   {sets: ['KUJI', 'USDC'], size: 262015.9},
-   {sets: ['USDC', 'USK'], size: 49713.08},
-   {sets: ['KUJI', 'ATOM'], size: 35262.375},
-   {sets: ['SOMM', 'USK'], size: 33914.195},
-   {sets: ['KUJI', 'USK'], size: 89125.53},
-   {sets: ['USK'], size: 266446.03},
-   {sets: ['KUJI'], size: 405327.06},
-   {sets: ['SOMM'], size: 42297.594},
-   {sets: ['USDC'], size: 351818.94},
-   {sets: ['ATOM'], size: 49849.71}];
+sets = [   {sets: ['KART', 'USK'], size: 37199.85},
+   {sets: ['USDC', 'USK'], size: 56587.57},
+   {sets: ['KUJI', 'USK'], size: 53901.977},
+   {sets: ['KUJI', 'ATOM'], size: 58679.77},
+   {sets: ['KUJI', 'USDC'], size: 124369.44},
+   {sets: ['KUJI'], size: 261568.9},
+   {sets: ['ATOM'], size: 76891.11},
+   {sets: ['USDC'], size: 225989.17},
+   {sets: ['KART'], size: 40077.08},
+   {sets: ['USK'], size: 221238.05}];
 
